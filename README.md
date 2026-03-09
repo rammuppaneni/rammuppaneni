@@ -48,4 +48,3 @@ Delivered Azure and Microsoft 365 solutions for:
 ## 📫 Contact
 - 🌐 Portfolio: [muppaneni.com.au](https://muppaneni.com.au)
 - 💼 LinkedIn: [linkedin.com/in/ram-muppaneni](https://www.linkedin.com/in/ram-muppaneni)
-- 📧 Email: ram@muppaneni.com.au
